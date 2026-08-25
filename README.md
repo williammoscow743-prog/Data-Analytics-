@@ -1,109 +1,30 @@
-# Data-Analytics-
-Research assignment 
-# 📊 Data Analytics Portfolio
+# Data Analytics — Research Assignment
 
-> A collection of practical data analytics exercises and projects demonstrating the complete data analysis workflow using Python.
+Handwritten research assignment covering the foundations of data and artificial intelligence, completed as part of the BrightLight Data Analytics course (Introduction to Data & AI).
 
-## 📖 Overview
+## Overview
 
-This repository showcases my journey in Data Analytics through hands-on projects and exercises. It demonstrates my ability to collect, clean, analyze, visualize, and interpret data to support informed business decisions.
+This repository contains a scanned PDF of a handwritten research assignment answering questions on core data and AI concepts — from database fundamentals through to practical topics like prompt engineering and version control.
 
-The projects focus on applying analytical thinking and Python programming to solve real-world business problems.
+## Contents
 
----
+- `Mathekuana LW Assignment 2.pdf` — 14-page scanned assignment, "Research Assignment 2: Foundations of Data & Artificial Intelligence"
 
-## 🎯 Objectives
+## Topics Covered
 
-- Practice data analysis techniques
-- Develop Python programming skills
-- Perform exploratory data analysis (EDA)
-- Create meaningful visualizations
-- Generate business insights
-- Strengthen problem-solving skills
+- Databases, data warehouses, data lakes, and data marts
+- Structured vs. semi-structured data (e.g. JSON)
+- Prompt engineering for AI tools like ChatGPT and Claude
+- Programming concepts (e.g. `map` functions)
+- Cloud computing service models (IaaS, PaaS, SaaS)
+- Version control with Git (commits, branches)
 
----
+## Format
 
-## 🛠 Technologies Used
+Handwritten, scanned, and submitted as a PDF, per the assignment's submission requirements.
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
-
----
-
-## 📚 Topics Covered
-
-- Python Fundamentals
-- Data Cleaning
-- Data Wrangling
-- Exploratory Data Analysis
-- Data Visualization
-- Descriptive Statistics
-- Business Analytics
-- Insight Generation
-
----
-
-## 📂 Project Structure
-
-```
-Data-Analytics-/
-│
-├── notebooks/
-├── datasets/
-├── images/
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/williammoscow743-prog/Data-Analytics-.git
-```
-
-Install dependencies
-
-```bash
-pip install pandas numpy matplotlib
-```
-
-Run
-
-```bash
-jupyter notebook
-```
-
----
-
-## 🎯 Skills Demonstrated
-
-- Data Analysis
-- Python Programming
-- Data Cleaning
-- Data Visualization
-- Critical Thinking
-- Business Intelligence
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-## 👨‍💻 Author
+## Author
 
 **William Mathekuana**
 
-Aspiring Data Analyst | Software Developer
-
-GitHub:
-https://github.com/williammoscow743-prog
-
-⭐ Star this repository if you found it useful.
+GitHub: https://github.com/williammoscow743-prog
